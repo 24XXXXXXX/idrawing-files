@@ -79,7 +79,7 @@
         <mxCell id="CLHL3DoHMK0gcoJUPpff-31" value="订单处理" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="570" y="250" width="20" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="CLHL3DoHMK0gcoJUPpff-32" value="商品管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="CLHL3DoHMK0gcoJUPpff-32" value="二手商品管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="540" y="250" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="CLHL3DoHMK0gcoJUPpff-33" value="收益统计" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
